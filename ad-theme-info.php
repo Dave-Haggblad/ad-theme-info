@@ -18,7 +18,7 @@ if( ! defined( 'ABSPATH' ) ) exit;
 if( !class_exists('AdThemeInfo') ) :
 
 include_once( plugin_dir_path( __FILE__ ) . 'updater.php' );
-$updater = new AD_ACF_Updater( __FILE__ );
+$updater = new AD_Theme_Info_Updater( __FILE__ );
 $updater->set_username( 'Dave-Haggblad' );
 $updater->set_repository( 'ad-theme-info' );
 $updater->initialize();
