@@ -3,7 +3,7 @@
 Plugin Name: Antenna Digital Theme Info
 Plugin URI: https://www.antennagroup.com
 Description: Display template files while viewing page as admin.
-Version: 1.0
+Version: 1.1
 Author: Antenna | Digital
 Author URI: https://wwww.antennagroup.com
 License: GPLv2 or later
